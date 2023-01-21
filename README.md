@@ -1,17 +1,9 @@
-# deer
+# About
+https://nemutas.github.io/deer/
 
-```
-gh repo clone nemutas/deer
-```
+<img src='https://user-images.githubusercontent.com/46724121/213871965-6b50a5b0-0529-419c-a782-91103dd95689.png' width='600' />
 
-```
-npm install
-```
-
-# using
-
-- [Vite](https://vitejs.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Sass](https://sass-lang.com/)
-- [vite-plugin-glsl](https://github.com/UstymUkhman/vite-plugin-glsl)
-- [WebGL GLSL Editor](https://marketplace.visualstudio.com/items?itemName=raczzalan.webgl-glsl-editor) (v1.3.0 -> If the extension is set to glsl, errors originating from threejs built-in variables will not occur.)
+# References
+- [Deer Sculpture](https://skfb.ly/owNtY)
+- [Matcaps](https://github.com/nidorx/matcaps)
+- [webgl mirror](https://threejs.org/examples/?q=Reflec#webgl_mirror)
